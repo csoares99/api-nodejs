@@ -1,6 +1,8 @@
 
 # Template for Node.JS API developed for my practices (I'm still working)
 
+<img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" width="28">
+
 DB migrations and ORM:
     - Sequelize
 
@@ -15,7 +17,8 @@ and
 
 # Running 
 
-1 - npm install
-2 - npx sequelize db:migrate
-3 - npx sequelize db:seed:all
-4 - npm start
+- npm install
+- npx sequelize db:migrate
+- npx sequelize db:seed:all
+- npm start
+
